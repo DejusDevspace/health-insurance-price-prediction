@@ -1,2 +1,2 @@
 # Health Insurace Charge Prediction
-Predicting annual health insurace charges for patients using various features.
+Predicting annual health insurance charges for patients using various features.
