@@ -1,2 +1,2 @@
 # Health Insurace Charge Prediction
-Predicting annual health insurance charges for patients using various features.
+This repository contains analysis and training a model to predict annual health insurance charges for patients using various features.
